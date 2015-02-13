@@ -81,7 +81,7 @@ Courtesy to "Lichman, M. (2013). UCI Machine Learning Repository [http://archive
 The direct link to the data set is the following:
 http://archive.ics.uci.edu/ml/machine-learning-databases/00240/UCI%20HAR%20Dataset.zip
 
-The above .zip file was downloaded and extracted. 
+The above .zip file was downloaded and extracted to "UCI-HAR-Dataset". Notice how the empty spaces were replaced with "-" to avoid empty spaces in file path names.  
 
 ## File content
 (mainly taken from README.txt)
